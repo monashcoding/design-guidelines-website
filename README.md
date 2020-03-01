@@ -1,6 +1,6 @@
-# Project Title
+# MAC Design Guidelines Website
 
-Nice description of what this project actually does
+To maintain the MAC branding, we have created a website that displays our design guidelines.
 
 ## Getting Started
 
@@ -10,16 +10,9 @@ Steps on how to run your project
 - [ ] Build Steps
 - [ ] Running the project
 
-## Checklist
-
-### Github Options
-
-- [ ] Set branch protection on `master` branch
-- [ ] Only allow Squash and Merge for PR's
-
 ## Contributing
 
-If you think this could be better, please [open an issue](https://github.com/monashcode/repo-template/issues/new)!
+If you think this could be better, please [open an issue](https://github.com/monashcode/design-guidelines-website/issues/new)!
 
 Please note that all interactions in [@MonashCode](https://github.com/monashcode) fall under our [Code of Conduct](CODE_OF_CONDUCT.md).
 
